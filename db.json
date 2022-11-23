@@ -1,0 +1,29 @@
+{
+    "data": [
+        {
+            "name": "Puma RS-X Bold",
+            "description": "Dubble-XL",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPojTKu7pnE4Yh6_KL_-WxUbxSyVGZCfsIyQ&usqp=CAU",
+            "price": 200
+        },
+        {
+            "name": "Puma Sneakers",
+            "description": "Dubble-XL",
+            "img": "https://c4.wallpaperflare.com/wallpaper/713/298/326/air-force-ked-nike-wallpaper-preview.jpg",
+            "price": 180
+        },
+        {
+            "name": "Puma Ferrari",
+            "description": "Dubble-XL",
+            "img": "https://images.unsplash.com/photo-1613070120286-98b11cdb9ae2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmlrZSUyMGFpciUyMGZvcmNlJTIwMXxlbnwwfHwwfHw%3D&w=1000&q=80",
+            "price": 190
+        },
+        {
+            "name": "Puma Running",
+            "description": "Dubble-XL",
+            "img": "https://www.snipes.nl/dw/image/v2/BDCB_PRD/on/demandware.static/-/Sites-snse-master-eu/default/dw778e9e83/1898066_P.jpg?sw=450&sh=450&sm=fit&sfrm=png",
+            "price": 200
+        }
+        
+    ]
+}
